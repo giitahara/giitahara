@@ -47,5 +47,5 @@ Busco constantemente integrar princípios de **STEM** (Science, Technology, Engi
 </p>
 
 <p align="center" style="color:gray">
-  <sub>Layout minimalista · Tons neutros com toque roxo · Feito com 💜 por giitahara</sub>
+  <sub>“Nada na vida deve ser temido, apenas compreendido.” — Marie Curie ⚛️</sub>
 </p>
